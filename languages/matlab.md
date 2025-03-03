@@ -1,9 +1,9 @@
 ---
 layout: language
 title: MATLAB
-permalink: /languages/matlab.html
+permalink: /languages/matlab
 image: https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/MATLAB.png
-description: "MATLAB (an abbreviation of "MATrix LABoratory" [18]) is a proprietary multi-paradigm programming language and numeric computing environment developed by MathWorks. MATLAB allows matrix manipulations, plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages."
+description: "MATLAB ® is a programming and numeric computing platform for engineering and scientific applications like data analysis, signal and image processing, control systems, wireless communications, and robotics. MATLAB includes a programming language, interactive apps, highly specialized libraries, and tools for automatically generating embedded code."
 ---
 
 # MATLAB
@@ -16,4 +16,4 @@ description: "MATLAB (an abbreviation of "MATrix LABoratory" [18]) is a propriet
 
 ## Opis
 
-MATLAB (an abbreviation of "MATrix LABoratory" [18]) is a proprietary multi-paradigm programming language and numeric computing environment developed by MathWorks. MATLAB allows matrix manipulations, plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages.
+MATLAB ® is a programming and numeric computing platform for engineering and scientific applications like data analysis, signal and image processing, control systems, wireless communications, and robotics. MATLAB includes a programming language, interactive apps, highly specialized libraries, and tools for automatically generating embedded code.

@@ -1,9 +1,9 @@
 ---
 layout: language
 title: JavaScript
-permalink: /languages/javascript.html
+permalink: /languages/javascript
 image: https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/JavaScript.png
-description: "JavaScript is a multi-paradigm, dynamic language with types and operators, standard built-in objects, and methods. Its syntax is based on the Java and C languages — many structures from those languages apply to JavaScript as well. JavaScript supports object-oriented programming with object prototypes and classes. It also supports functional programming since functions are first-class objects ..."
+description: "This is an accepted version of this page This is the latest accepted revision, reviewed on 23 February 2025. High-level programming language Not to be confused with Java (programming language), Javanese script, or ECMAScript. JavaScript Screenshot of JavaScript source code Paradigm Multi-paradigm: event-driven, functional, imperative, procedural, object-oriented Designed by Brendan Eich of ..."
 ---
 
 # JavaScript
@@ -16,4 +16,4 @@ description: "JavaScript is a multi-paradigm, dynamic language with types and op
 
 ## Opis
 
-JavaScript is a multi-paradigm, dynamic language with types and operators, standard built-in objects, and methods. Its syntax is based on the Java and C languages — many structures from those languages apply to JavaScript as well. JavaScript supports object-oriented programming with object prototypes and classes. It also supports functional programming since functions are first-class objects ...
+This is an accepted version of this page This is the latest accepted revision, reviewed on 23 February 2025. High-level programming language Not to be confused with Java (programming language), Javanese script, or ECMAScript. JavaScript Screenshot of JavaScript source code Paradigm Multi-paradigm: event-driven, functional, imperative, procedural, object-oriented Designed by Brendan Eich of ...
