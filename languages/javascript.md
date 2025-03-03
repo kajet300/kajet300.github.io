@@ -3,7 +3,7 @@ layout: language
 title: JavaScript
 permalink: /languages/javascript
 image: https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/JavaScript.png
-description: "This is an accepted version of this page This is the latest accepted revision, reviewed on 23 February 2025. High-level programming language Not to be confused with Java (programming language), Javanese script, or ECMAScript. JavaScript Screenshot of JavaScript source code Paradigm Multi-paradigm: event-driven, functional, imperative, procedural, object-oriented Designed by Brendan Eich of ..."
+description: "The core client-side JavaScript language consists of some common programming features that allow you to do things like: Store useful values inside variables. In the above example for instance, we ask for a new name to be entered then store that name in a variable called name. Operations on pieces of text (known as "strings" in programming)."
 ---
 
 # JavaScript
@@ -16,4 +16,4 @@ description: "This is an accepted version of this page This is the latest accept
 
 ## Opis
 
-This is an accepted version of this page This is the latest accepted revision, reviewed on 23 February 2025. High-level programming language Not to be confused with Java (programming language), Javanese script, or ECMAScript. JavaScript Screenshot of JavaScript source code Paradigm Multi-paradigm: event-driven, functional, imperative, procedural, object-oriented Designed by Brendan Eich of ...
+The core client-side JavaScript language consists of some common programming features that allow you to do things like: Store useful values inside variables. In the above example for instance, we ask for a new name to be entered then store that name in a variable called name. Operations on pieces of text (known as "strings" in programming).

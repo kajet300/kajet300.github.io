@@ -1,9 +1,9 @@
 ---
 layout: language
 title: Delphi/Object Pascal
-permalink: /languages/delphi/object-pascal
+permalink: /languages/delphi-object-pascal
 image: https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Delphi_Object_Pascal.png
-description: "Delphi is a general-purpose programming language and a software product that uses the Delphi dialect of the Object Pascal programming language and provides an integrated development environment (IDE) for rapid application development of desktop, mobile, web, and console software, [3] currently developed and maintained by Embarcadero Technologies."
+description: "Delphi uses a strongly typed high-level programming language, intended to be easy to use and originally based on the earlier Object Pascal language. Pascal was originally developed as a general-purpose language "suitable for expressing the fundamental constructs known at the time in a concise and logical way", and "its implementation was to be efficient and competitive with existing FORTRAN ..."
 ---
 
 # Delphi/Object Pascal
@@ -16,4 +16,4 @@ description: "Delphi is a general-purpose programming language and a software pr
 
 ## Opis
 
-Delphi is a general-purpose programming language and a software product that uses the Delphi dialect of the Object Pascal programming language and provides an integrated development environment (IDE) for rapid application development of desktop, mobile, web, and console software, [3] currently developed and maintained by Embarcadero Technologies.
+Delphi uses a strongly typed high-level programming language, intended to be easy to use and originally based on the earlier Object Pascal language. Pascal was originally developed as a general-purpose language "suitable for expressing the fundamental constructs known at the time in a concise and logical way", and "its implementation was to be efficient and competitive with existing FORTRAN ...
