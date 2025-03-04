@@ -4,7 +4,6 @@ title: "Ranking Języków Programowania"
 permalink: /ranking/
 ---
 
-# Ranking Języków Programowania
 
 | Pozycja | Język | Ranking | Zmiana |
 |---------|-------|---------|--------|
