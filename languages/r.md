@@ -1,10 +1,10 @@
 ---
 layout: page
 title: R
-permalink: languages/r/
+permalink: /languages/r/
 image: https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/R.png
 description: |
-  In conclusion, the R programming language stands out as an essential tool for data analysis, statistical computing, and visualization. Its comprehensive range of statistical techniques, advanced data visualization capabilities, and extensive package ecosystem make it a preferred choice for data scientists, statisticians, and researchers. ...
+  R is a programming language for statistical computing and data visualization.It has been adopted in the fields of data mining, bioinformatics and data analysis. [9]The core R language is augmented by a large number of extension packages, containing reusable code, documentation, and sample data.. R software is open-source and free software.It is licensed by the GNU Project and available under ...
 ---
 
 ![Logo](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/R.png)
@@ -14,4 +14,4 @@ description: |
 
 ## Opis
 
-In conclusion, the R programming language stands out as an essential tool for data analysis, statistical computing, and visualization. Its comprehensive range of statistical techniques, advanced data visualization capabilities, and extensive package ecosystem make it a preferred choice for data scientists, statisticians, and researchers. ...
+R is a programming language for statistical computing and data visualization.It has been adopted in the fields of data mining, bioinformatics and data analysis. [9]The core R language is augmented by a large number of extension packages, containing reusable code, documentation, and sample data.. R software is open-source and free software.It is licensed by the GNU Project and available under ...
