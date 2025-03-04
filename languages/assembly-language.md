@@ -4,7 +4,7 @@ title: Assembly language
 permalink: /languages/assembly-language/
 image: https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Assembly_language.png
 description: |
-  Assembly language uses a mnemonic to represent, e.g., each low-level machine instruction or opcode, each directive, typically also each architectural register, flag, etc.Some of the mnemonics may be built-in and some user-defined. Many operations require one or more operands in order to form a complete instruction. Most assemblers permit named constants, registers, and labels for program and ...
+  When we talk about programming languages the first thing that comes to our mind is languages like C, C++, Java, Python, etc. But those languages hide the actual working i.e., that abstracts many things from users. But there is a language that really lies on basic concepts behind the programming or interaction between computer hardware ...
 ---
 
 ![Logo](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Assembly_language.png)
@@ -14,4 +14,4 @@ description: |
 
 ## Opis
 
-Assembly language uses a mnemonic to represent, e.g., each low-level machine instruction or opcode, each directive, typically also each architectural register, flag, etc.Some of the mnemonics may be built-in and some user-defined. Many operations require one or more operands in order to form a complete instruction. Most assemblers permit named constants, registers, and labels for program and ...
+When we talk about programming languages the first thing that comes to our mind is languages like C, C++, Java, Python, etc. But those languages hide the actual working i.e., that abstracts many things from users. But there is a language that really lies on basic concepts behind the programming or interaction between computer hardware ...

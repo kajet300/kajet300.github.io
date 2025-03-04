@@ -4,7 +4,7 @@ title: JavaScript
 permalink: /languages/javascript/
 image: https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/JavaScript.png
 description: |
-  JavaScript is a multi-paradigm, dynamic language with types and operators, standard built-in objects, and methods. Its syntax is based on the Java and C languages — many structures from those languages apply to JavaScript as well. JavaScript supports object-oriented programming with object prototypes and classes. It also supports functional programming since functions are first-class objects ...
+  The core client-side JavaScript language consists of some common programming features that allow you to do things like: Store useful values inside variables. In the above example for instance, we ask for a new name to be entered then store that name in a variable called name. Operations on pieces of text (known as 'strings' in programming).
 ---
 
 ![Logo](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/JavaScript.png)
@@ -14,4 +14,4 @@ description: |
 
 ## Opis
 
-JavaScript is a multi-paradigm, dynamic language with types and operators, standard built-in objects, and methods. Its syntax is based on the Java and C languages — many structures from those languages apply to JavaScript as well. JavaScript supports object-oriented programming with object prototypes and classes. It also supports functional programming since functions are first-class objects ...
+The core client-side JavaScript language consists of some common programming features that allow you to do things like: Store useful values inside variables. In the above example for instance, we ask for a new name to be entered then store that name in a variable called name. Operations on pieces of text (known as 'strings' in programming).
