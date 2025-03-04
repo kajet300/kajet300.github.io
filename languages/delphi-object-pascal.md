@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Delphi/Object Pascal
-permalink: //languages/delphi-object-pascal/
+permalink: /languages/delphi-object-pascal/
 image: https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Delphi_Object_Pascal.png
 description: |
-  Delphi uses a strongly typed high-level programming language, intended to be easy to use and originally based on the earlier Object Pascal language. Pascal was originally developed as a general-purpose language 'suitable for expressing the fundamental constructs known at the time in a concise and logical way', and 'its implementation was to be efficient and competitive with existing FORTRAN ...
+  Devised by Niklaus Wirth in the late 1960s and early 1970s, Pascal is a programming language.Originally produced by Borland Software Corporation, Embarcadero Delphi is composed of an IDE, set of standard libraries, and a Pascal-based language commonly called either Object Pascal, Delphi Pascal, or simply 'Delphi' (Embarcadero's current documentation refers to it as 'the Delphi language (Object ...
 ---
 
 # Delphi/Object Pascal
@@ -16,4 +16,4 @@ description: |
 
 ## Opis
 
-Delphi uses a strongly typed high-level programming language, intended to be easy to use and originally based on the earlier Object Pascal language. Pascal was originally developed as a general-purpose language 'suitable for expressing the fundamental constructs known at the time in a concise and logical way', and 'its implementation was to be efficient and competitive with existing FORTRAN ...
+Devised by Niklaus Wirth in the late 1960s and early 1970s, Pascal is a programming language.Originally produced by Borland Software Corporation, Embarcadero Delphi is composed of an IDE, set of standard libraries, and a Pascal-based language commonly called either Object Pascal, Delphi Pascal, or simply 'Delphi' (Embarcadero's current documentation refers to it as 'the Delphi language (Object ...
