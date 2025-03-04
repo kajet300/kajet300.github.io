@@ -14,18 +14,20 @@
   name: C++
   permalink: languages/c++
 - description: Java is a high-level, general-purpose, memory-safe, object-oriented
-    programming language. It is intended to let programmers write once, run anywhere
-    (WORA), [16] meaning that compiled Java code can run on all platforms that support
+    programming language.It is intended to let programmers write once, run anywhere
+    (), [16] meaning that compiled Java code can run on all platforms that support
     Java without the need to recompile. [17] Java applications are typically compiled
-    to bytecode that can run on any Java virtual machine (JVM) regardless of the ...
+    to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying
+    ...
   img: https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Java.png
   name: Java
   permalink: languages/java
-- description: What is C Programming Langauge? C is a general-purpose programming
-    language that is extremely popular, simple, and flexible to use. It is a structured
-    programming language that is machine-independent and extensively used to write
-    various applications, Operating Systems like Windows, and many other complex programs
-    like Oracle database, Git, Python interpreter, and more.
+- description: C (pronounced / ˈ s iː / - like the letter c) [6] is a general-purpose
+    programming language.It was created in the 1970s by Dennis Ritchie and remains
+    very widely used and influential. By design, C's features cleanly reflect the
+    capabilities of the targeted CPUs.It has found lasting use in operating systems
+    code (especially in kernels [7]), device drivers, and protocol stacks, but its
+    use ...
   img: https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C.png
   name: C
   permalink: languages/c
@@ -56,16 +58,16 @@
 - description: 'Go was designed at Google in 2007 to improve programming productivity
     in an era of multicore, networked machines and large codebases. [22] The designers
     wanted to address criticisms of other languages in use at Google, but keep their
-    useful characteristics: [23] Static typing and run-time efficiency (like C) Readability
-    and usability (like Python) [24] High-performance networking and ...'
+    useful characteristics: [23] Static typing and run-time efficiency (like C); Readability
+    and usability (like Python) [24]; High-performance networking and ...'
   img: https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Go.png
   name: Go
   permalink: languages/go
-- description: Delphi uses a strongly typed high-level programming language, intended
-    to be easy to use and originally based on the earlier Object Pascal language.
-    Pascal was originally developed as a general-purpose language "suitable for expressing
-    the fundamental constructs known at the time in a concise and logical way", and
-    "its implementation was to be efficient and competitive with existing FORTRAN
+- description: Devised by Niklaus Wirth in the late 1960s and early 1970s, Pascal
+    is a programming language.Originally produced by Borland Software Corporation,
+    Embarcadero Delphi is composed of an IDE, set of standard libraries, and a Pascal-based
+    language commonly called either Object Pascal, Delphi Pascal, or simply 'Delphi'
+    (Embarcadero's current documentation refers to it as 'the Delphi language (Object
     ...
   img: https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Delphi_Object_Pascal.png
   name: Delphi/Object Pascal
@@ -97,8 +99,10 @@
   name: Scratch
   permalink: languages/scratch
 - description: Rust is a general-purpose programming language emphasizing performance,
-    type safety, and concurrency. It enforces memory safety, meaning that all references
-    point to valid memory.
+    type safety, and concurrency.It enforces memory safety, meaning that all references
+    point to valid memory. It does so without a conventional garbage collector; instead,
+    memory safety errors and data races are prevented by the "borrow checker", which
+    tracks the object lifetime of references at compile time.
   img: https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Rust.png
   name: Rust
   permalink: languages/rust
@@ -110,19 +114,20 @@
   img: https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/PHP.png
   name: PHP
   permalink: languages/php
-- description: R is a programming language for statistical computing and data visualization.It
-    has been adopted in the fields of data mining, bioinformatics and data analysis.
-    [9]The core R language is augmented by a large number of extension packages, containing
-    reusable code, documentation, and sample data.. R software is open-source and
-    free software.It is licensed by the GNU Project and available under ...
+- description: In conclusion, the R programming language stands out as an essential
+    tool for data analysis, statistical computing, and visualization. Its comprehensive
+    range of statistical techniques, advanced data visualization capabilities, and
+    extensive package ecosystem make it a preferred choice for data scientists, statisticians,
+    and researchers. ...
   img: https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/R.png
   name: R
   permalink: languages/r
-- description: MATLAB ® is a programming and numeric computing platform for engineering
-    and scientific applications like data analysis, signal and image processing, control
-    systems, wireless communications, and robotics. MATLAB includes a programming
-    language, interactive apps, highly specialized libraries, and tools for automatically
-    generating embedded code.
+- description: MATLAB (an abbreviation of "MATrix LABoratory" [18]) is a proprietary
+    multi-paradigm programming language and numeric computing environment developed
+    by MathWorks.MATLAB allows matrix manipulations, plotting of functions and data,
+    implementation of algorithms, creation of user interfaces, and interfacing with
+    programs written in other languages.. Although MATLAB is intended primarily for
+    ...
   img: https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/MATLAB.png
   name: MATLAB
   permalink: languages/matlab
